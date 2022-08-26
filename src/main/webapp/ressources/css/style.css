@@ -1,0 +1,35 @@
+header, footer{
+	background-color:#EEEEFF;
+	padding: 1em;
+}
+
+.espace {
+	padding: 15px 0px;
+}
+
+ul {
+	padding: 0;
+    list-style: none;
+}
+
+ul li {
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	background-color: #b8ffdd;
+	cursor: pointer;
+	padding: 3px;
+    margin: 4px;
+    text-decoration: none;
+}
+
+.menu {
+	display: inline-block;
+	margin-bottom: 20px;
+}
